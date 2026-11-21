@@ -24,4 +24,5 @@ Source: [Kaggle Titanic Dataset](https://www.kaggle.com/competitions/titanic/dat
 To gain practical knowledge of Python, Data Analysis and Exploratory Data Analysis (EDA).
 
 ## Author
-**Your Name**
+AZEEM SHADAB
+
